@@ -14,6 +14,7 @@ view: salaries {
       week,
       month,
       month_name,
+      month_num,
       quarter,
       year
     ]
@@ -35,7 +36,6 @@ view: salaries {
       date,
       week,
       month,
-      quarter,
       year
     ]
     convert_tz: no
