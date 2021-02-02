@@ -23,6 +23,7 @@ view: salaries {
   }
 
   dimension: salary {
+    label: "employee Salary"
     type: number
     sql: ${TABLE}."salary" ;;
   }
